@@ -1,0 +1,7 @@
+Zorrrus, Haunted House, RM10
+Zorrrus, Haunted Room, RM5
+Zorrrus, Sleep Campaign, RM0
+Zorrrus, Sleep Horror, RM10
+Zorrrus, Sleep Horror, RM10chuiteng, Haunted Room, RM5
+chuiteng, Sleep Campaign, RM5
+chuiteng, Sleep Horror, RM10

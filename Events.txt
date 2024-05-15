@@ -1,0 +1,6 @@
+Adventure, Sleep Campaign, 1500, 27 July 2022, Apu Campus, 5, Florence
+Campaign, Sleep Campaign, 2000, 30 april 2022, Apu campus, Free, Zorrrus
+Horror, Haunted House, 2100, 01 jan 2023, Apu campus, 10, Zorrrus
+Horror, Haunted Room, 2300, 01 jan 2023, Apu campus, 5, Zorrrus
+Campaign, Youth Camp, 1300, 14 May 2022, Apu Campus, 25, Zorrus
+Horror, Sleep Horror, 2200, 3 May 2022, Discord, 10, Florence
